@@ -1,0 +1,80 @@
+                        Title                                     Author                  Code 
+-----------------------------------------------------------------------------------------------
+Adventure According to Humphrey                          |Betty G. Birney                |A-001
+Adventures of a South Pole Pig                           |Chris Kurtz                    |A-002
+Al Capone Does My Shirts                                 |Gennifer Choldenko             |A-003
+Because of Winn-Dixie                                    |Kate DiCamillo                 |B-001
+Bell Bandit                                              |Jacqueline Davis               |B-002
+Booked                                                   |Kwame Alexander                |B-003
+Charlie and the Chocolate Factory                        |Roald Dahl                     |C-001
+Charlotte's Web                                          |E.B. White                     |C-002
+Class Dismissed                                          |Allan Woodrow                  |C-003
+Doll People                                              |Ann M. Martin                  |D-001
+Dominic                                                  |William Steig                  |D-002
+Distance Covered                                         |Elizabeth Fitzgerald           |D-003
+Elephant Run                                             |Roland Smith                   |E-001
+Esperanza Rising                                         |Pam Munoz Ryan                 |E-002
+Escape from Mr. Lemoncello's Library                     |Chris Grabenstein              |E-003
+Fantastic Mr. Fox                                        |Roald Dahl                     |F-001
+Frank Einstein and the Electro-Finger                    |Jon Scieszka                   |F-002
+Frindle                                                  |Andrew Clements                |F-003
+Ghost                                                    |Jason Reynolds                 |G-001
+Gooney Bird Greene                                       |Lois Lowry                     |G-002
+Gooseberry Park                                          |Cynthia Rylant                 |G-003
+Harry Potter (Series)                                    |J.K. Rowling                   |H-001
+Head First Programming                                   |Paul Barry                     |H-002
+High-Performance Graphic In C Animation And Simulation   |Lee Adams                      |H-003
+Isosurface                                               |Rephael Wenger                 |I-001
+Introduction To Health Psychology                        |Val Morrison                   |I-002
+Illustration Now                                         |Taschen                        |I-003
+Java Network Programming                                 |Merlin Hughes                  |J-001
+Java Software Structures                                 |Lewis                          |J-002
+Jurassic Park                                            |Michael Crichton               |J-003
+Key Reading In Media Today                               |Brooke Erin Duffy              |K-001
+Kite Flying                                              |Grace Lin                      |K-002
+Koala Lou                                                |Mem Fox                        |K-003
+Lean Product And Process Development                     |Allen C. Ward                  |L-001
+Linear And Integer Optimization                          |Gerard Sierksma                |L-002
+Lung Cancer                                              |Jack A. Roth                   |L-003
+Mind Invaders                                            |Dave Hunt                      |M-001
+Moby-Dick                                                |Herman Melville                |M-002
+Molecular Biology Of Human Cancers                       |Wolfgang Arthur                |M-003
+Nefertiti                                                |Michelle Moran                 |N-001
+Never Change                                             |Elizabeth Berg                 |N-002
+Never Let Me Go                                          |Kazuo Ishiguro                 |N-003
+O Is For For Outlaw                                      |Sue Grafton                    |O-001
+Omerta                                                   |Mario Puzo                     |O-002
+On Paper                                                 |Nicholas A.Basbanes            |O-003
+Pacific                                                  |Simon Winchester               |P-001
+Past Due                                                 |William Lashner                |P-002
+People of the Book                                       |Geraldine Brooks               |P-003
+Queen of Dreams                                          |Chitra Banerjee Divakaruni     |Q-001
+Queen Bees and Wannabes                                  |Rosalind Wiseman               |Q-002
+Q is For Quarrry                                         |Sue Grafton                    |Q-003
+Rain Village                                             |Carolyn Turgeon                |R-001
+Rat                                                      |Fernanda Eberstadt             |R-002
+Reading group                                            |Martha Burns                   |R-003
+Sadness Is a White Bird                                  |Moriel Rothman Zecher          |S-001
+Sam                                                      |Tom Haliman                    |S-002
+Savage Country                                           |Robert Olmstead                |S-003
+The Fault In Our Stars                                   |John Green                     |T-001
+Things Fall Apart                                        |Chinua Achebe                  |T-002
+Twilight                                                 |Stephenie Meyer                |T-003
+Uglies                                                   |Scott Westerfeld               |U-001
+Under The Never Sky                                      |Veronica Rossi                 |U-002
+Under The Tuscan Sun                                     |Frances Mayes                  |U-003
+Vanessa And Her Sister                                   |Priya Parmar                   |V-001
+Vanishing Acts                                           |Jodi Picoult                   |V-002
+Vampires In The Lemon Grave                              |Karen Russell                  |V-003
+We Are Called To Rise                                    |Laura McBride                  |W-001
+We'll Meet Again                                         |Mary Higgins Clark             |W-002
+What Is Left The Daughter                                |Howard Norman                  |W-003
+Xenocide                                                 |Orson Scott Card               |X-001
+X-Men: Magneto Testament                                 |Greg Pak                       |X-002
+Xone Of Contention                                       |Piers Anthony                  |X-003
+Years Of Wonders                                         |Geraldine Brooks               |Y-001
+Yes, Chef                                                |Marcus Samuelsson              |Y-003
+Yours Until Dawn                                         |Teresa Medeiros                |Y-002
+Z: A Novel of Zelda Fitzgerald                           |Therese Anne Fowler            |Z-001
+Zero Day                                                 |David Baldacci                 |Z-002
+Zorro                                                    |Isabel Allende                 |Z-003

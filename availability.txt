@@ -1,0 +1,78 @@
+Adventure According to Humphrey|Betty G. Birney|1|A-001
+Adventures of a South Pole Pig|Chris Kurtz|1|A-002
+Al Capone Does My Shirts|Gennifer Choldenko|2|A-003
+Because of Winn-Dixie|Kate DiCamillo|2|B-001
+Bell Bandit|Jacqueline Davis|2|B-002
+Booked|Kwame Alexander|3|B-003
+Charlie and the Chocolate Factory|Roald Dahl|3|C-001
+Charlotte's Web|E.B. White|3|C-002
+Class Dismissed|Allan Woodrow|4|C-003
+Doll People|Ann M. Martin|5|D-001
+Dominic|William Steig|3|D-002
+Distance Covered|Elizabeth Fitzgerald|2|D-003
+Elephant Run|Roland Smith|1|E-001
+Esperanza Rising|Pam Munoz Ryan|1|E-002
+Escape from Mr. Lemoncello's Library|Chris Grabenstein|5|E-003
+Fantastic Mr. Fox|Roald Dahl|3|F-001
+Frank Einstein and the Electro-Finger|Jon Scieszka|5|F-002
+Frindle|Andrew Clements|5|F-003
+Ghost|Jason Reynolds|7|G-001
+Gooney Bird Greene|Lois Lowry|2|G-002
+Gooseberry Park|Cynthia Rylant|3|G-003
+Harry Potter (Series)|J.K. Rowling|2|H-001
+Head First Programming|Paul Barry|3|H-002
+High-Performance Graphic In C Animation And Simulation|Lee Adams|4|H-003
+Isosurface|Rephael Wenger|4|I-001
+Introduction To Health Psychology|Val Morrison|3|I-002
+Illustration Now|Taschen|2|I-003
+Java Network Programming|Merlin Hughes|2|J-001
+Java Software Structures|Lewis|1|J-002
+Jurassic Park|Michael Crichton|3|J-003
+Key Reading In Media Today|Brooke Erin Duffy|2|K-001
+Kite Flying|Grace Lin|1|K-002
+Koala Lou|Mem Fox|1|K-003
+Lean Product And Process Development|Allen C. Ward|1|L-001
+Linear And Integer Optimization|Gerard Sierksma|1|L-002
+Lung Cancer|Jack A. Roth|2|L-003
+Mind Invaders|Dave Hunt|3|M-001
+Moby-Dick|Herman Melville|1|M-002
+Molecular Biology Of Human Cancers|Wolfgang Arthur|3|M-003
+Nefertiti|Michelle Moran|2|N-001
+Never Change|Elizabeth Berg|5|N-002
+Never Let Me Go|Kazuo Ishiguro|1|N-003
+O Is For For Outlaw|Sue Grafton|6|O-001
+Omerta|Mario Puzo|3|O-002
+On Paper|Nicholas A.Basbanes|2|O-003
+Pacific|Simon Winchester|1|P-001
+Past Due|William Lashner|2|P-002
+People of the Book|Geraldine Brooks|4|P-003
+Queen of Dreams|Chitra Banerjee Divakaruni|3|Q-001
+Queen Bees and Wannabes|Rosalind Wiseman|2|Q-002
+Q is For Quarrry|Sue Grafton|4|Q-003
+Rain Village|Carolyn Turgeon|2|R-001
+Rat|Fernanda Eberstadt|4|R-002
+Reading group|Martha Burns|5|R-003
+Sadness Is a White Bird|Moriel Rothman Zecher|1|S-001
+Sam|Tom Haliman|2|S-002
+Savage Country|Robert Olmstead|4|S-003
+The Fault In Our Stars|John Green|4|T-001
+Things Fall Apart|Chinua Achebe|2|T-002
+Twilight|Stephenie Meyer|2|T-003
+Uglies|Scott Westerfeld|1|U-001
+Under The Never Sky|Veronica Rossi|3|U-002
+Under The Tuscan Sun|Frances Mayes|4|U-003
+Vanessa And Her Sister|Priya Parmar|4|V-001
+Vanishing Acts|Jodi Picoult|2|V-002
+Vampires In The Lemon Grave|Karen Russell|2|V-003
+We Are Called To Rise|Laura McBride|1|W-001
+We'll Meet Again|Mary Higgins Clark|1|W-002
+What Is Left The Daughter|Howard Norman|1|W-003
+Xenocide|Orson Scott Card|1|X-001
+X-Men: Magneto Testament|Greg Pak|1|X-002
+Xone Of Contention|Piers Anthony|3|X-003
+Years Of Wonders|Geraldine Brooks|2|Y-001
+Yes, Chef|Marcus Samuelsson|1|Y-002
+Yours Until Dawn|Teresa Medeiros|2|Y-003
+Z: A Novel of Zelda Fitzgerald|Therese Anne Fowler|1|Z-001
+Zero Day|David Baldacci|1|Z-002
+Zorro|Isabel Allende|1|Z-003
